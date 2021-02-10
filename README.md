@@ -1,4 +1,4 @@
-## Bank-Customer-Churn
+## Predicting Bank Customer Churn
 
 ### Problem Statement
 Which factors are causing the customer to close their bank account?
