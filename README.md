@@ -1,9 +1,11 @@
 ## Bank-Customer-Churn
 
+### Problem Statement
+Which factors are causing the customer to close their bank account?
+
 ### Dataset
 
 #### Data Source
-
 The dataset is downloaded from [Kaggle](https://www.kaggle.com/shrutimechlearn/churn-modelling).
 
 Thanks to the data science community out there.
