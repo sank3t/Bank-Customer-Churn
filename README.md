@@ -31,4 +31,4 @@ Thanks :slightly_smiling_face: to the Data Science community out there.
 | Exited          | Binary flag 1 if the customer closed account with bank and 0 if the customer is retained |
 
 ### Notebooks
-* [EDA of the dataset WIP](https://nbviewer.jupyter.org/github/sank3t/Bank-Customer-Churn/blob/master/EDA%20-%20Bank%20Customer%20Churn.ipynb)
+* [EDA of the dataset](https://nbviewer.jupyter.org/github/sank3t/Bank-Customer-Churn/blob/master/EDA%20-%20Bank%20Customer%20Churn.ipynb) _*WIP_
