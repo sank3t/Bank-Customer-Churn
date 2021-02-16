@@ -1,5 +1,7 @@
 ## Predicting Bank Customer Churn
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sank3t/Bank-Customer-Churn/HEAD)
+
 ### Problem Statement
 Which factors are causing the customer to close their bank account?
 
